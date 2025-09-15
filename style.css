@@ -8,14 +8,11 @@ body {
 }
 
 /* STYLE TEXT */
-
-body{
-  #hello{
+#hello{
   color:#4f606d;
   font-family:monospace;
   text-align:center;
-}
-}
+  }
 main{
   color:#d98d26;
   font-family:sans-serif;
@@ -36,15 +33,13 @@ p{
   font-weight: bolder;
 }
 
-box{
-  main{background-color:#e7f281; 
+box main{background-color:#e7f281; 
       color:#d98d26;
        font-family:sans-serif;
        font-weight: bolder;
-    border: 3px solid white;}
+    border: 3px solid white;
   }
-info{
-  main{
+info main{
     background-color:#e7f281; 
     color: white;
     border: 3px solid white;
@@ -52,48 +47,41 @@ info{
     margin-bottom:0;
     margin-right: 10%;
     margin-left: 10%;
-  }
 }
 
 /* STYLE IMAGES */
-i1{
-  img{max-width:50%;
-     max-height:60%;
-     border-radius:50%;
-     text-align:left;
-      border: 3px solid white;
-     }
+i1 img{max-width:50%;
+   max-height:60%;
+  border-radius:50%;
+  text-align:left;
+   border: 3px solid white;
 }
-i2{
-  img{max-width:50%;
+i2 img{max-width:50%;
       border-radius:15%;
      text-align: left;
-     border: 3px solid white;}
+     border: 3px solid white;
 }
-i3{
-  img{max-width:50%;
-      border-radius:15%;
-     text-align:left;
-     border: 3px solid white;}
+i3 img{max-width:50%;
+  border-radius:15%;
+  text-align:left;
+  border: 3px solid white;
 }
 
 .pics{
   max-width:60%;
-    border-radius:15%;
-   text-align:left;
-   border: 3px solid white;
+  border-radius:15%;
+  text-align:left;
+  border: 3px solid white;
 }
 
 /* STYLE NAV BAR */
 
 
-.navbar{
-  ul{list-style-type: none;
+.navbar ul{list-style-type: none;
   background-color:#207d2e; 
   overflow: hidden;
   padding:1em;
-     text-align: center;
-    }
+  text-align: center;
 }
 
 li{
@@ -111,12 +99,9 @@ li a:hover{
   background-color:#34c849;
 }
 
-box1{
-  main{
+box1 main{
     background-color: #d98d26; 
       color:white;
        font-family:sans-serif;
     border: 3px solid white;
-
-  }
 }
