@@ -21,7 +21,7 @@ As this was my first html website it was a struggle for me to understand the dif
 JavaScript files add interactivity to your website using code. This is where you can listen for events, then take an action.
 
 ### Preview
-<img src="blob:chrome-untrusted://media-app/8d3f817e-cdad-470c-b4f4-a24609f8f855" alt="Screenshot 2025-09-17 11.48.08 AM.png"/><img width="610" height="517" alt="image" src="https://github.com/user-attachments/assets/9378249e-8600-400a-8fdd-0c62af684246" />
-<img src="blob:chrome-untrusted://media-app/8d3f817e-cdad-470c-b4f4-a24609f8f855" alt="Screenshot 2025-09-17 11.48.08 AM.png"/><img width="610" height="517" alt="image" src="https://github.com/user-attachments/assets/d05e056e-8423-4f79-b9d4-c305b9ee4c81" />
+<img src="blob:chrome-untrusted://media-app/8d3f817e-cdad-470c-b4f4-a24609f8f855" /><img width="610" height="517" alt="image" src="https://github.com/user-attachments/assets/9378249e-8600-400a-8fdd-0c62af684246" />
 
+<img src="blob:chrome-untrusted://media-app/f29ec8e5-a6e8-4697-95bd-e1bcaebc6318" /><img width="610" height="517" alt="image" src="https://github.com/user-attachments/assets/e848a5f8-f8e5-4f13-bfa3-2a6059d75266" />
 
